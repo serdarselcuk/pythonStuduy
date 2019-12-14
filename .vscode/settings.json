@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/serdar/conda/bin/python",
+    "python.formatting.blackPath": "/home/serdar/conda/bin/black",
+    "python.linting.pydocstyleEnabled": true
+}

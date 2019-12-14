@@ -1,0 +1,3 @@
+numpy means numerical python
+numpy arrays : standart for storing numarical datas
+essential for other packages e.g. scikit-learn 

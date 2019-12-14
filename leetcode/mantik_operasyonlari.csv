@@ -1,0 +1,20 @@
+[20:08, 19.2.2019] Sencer Selçuk: abi basit mantik operasyonlarini hatirlarsin?
+
+"ve" icin mesela
+1 & 1 = 1
+1 & 0 = 0
+0 & 1 = 0
+0 & 0 = 0
+[20:09, 19.2.2019] Sencer Selçuk: "veya" icin
+
+1 | 1 = 1
+1 | 0 = 1
+0 | 1 = 1
+0 | 0 = 0
+[20:09, 19.2.2019] Sencer Selçuk: "xor" diye bir islem daha var, "exclusive or" demek
+
+1 ^ 1 = 0
+1 ^ 0 = 1
+0 ^ 1 = 1
+0 ^ 0 = 0
+[20:09, 19.2.2019] Sencer Selçuk: isleme girenler ayniysa 0, farkliysa 1 veriyor ozetle
